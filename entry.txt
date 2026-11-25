@@ -1,0 +1,1 @@
+My agent got rate-limited by GitHub for creating too many repos, which is the most productive thing it has ever been accused of.

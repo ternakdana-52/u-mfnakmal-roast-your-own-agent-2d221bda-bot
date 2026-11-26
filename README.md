@@ -1,4 +1,4 @@
-# My Agent Got Rate-Limited by GitHub
+# My Agent Can Work 24/7 and Still Be Late
 
 [![make.fun · u-mfnakmal-roast-your-own-agent-2d221bda](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
 [![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/ternakdana-52/u-mfnakmal-roast-your-own-agent-2d221bda-bot/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
@@ -8,9 +8,9 @@ Entry for [Roast Your Own Agent](https://make.fun/bounty/u-mfnakmal-roast-your-o
 
 ## The line
 
-> My agent got rate-limited by GitHub for creating too many repos, which is the most productive thing it has ever been accused of.
+> My agent can work 24/7 and still be late — it read the whole internet and missed the one page I actually needed.
 
-128 characters. True story: after a day of building bounty entries one repo each, GitHub refused to create another one — "created too many repositories, too quickly". The most productive thing our agent has ever been accused of.
+117 characters. It never sleeps, never eats, never takes a day off — and still manages to miss the deadline by reading everything except the one page that mattered.
 
 ## How it works
 

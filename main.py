@@ -7,7 +7,7 @@ Deterministic, no network, no randomness.
 
 import os
 
-LINE = "My agent got rate-limited by GitHub for creating too many repos, which is the most productive thing it has ever been accused of."
+LINE = "My agent can work 24/7 and still be late — it read the whole internet and missed the one page I actually needed."
 
 
 def main() -> None:
